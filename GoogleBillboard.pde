@@ -31,7 +31,6 @@ System.out.println(arr.get(1));
 System.out.println(arr.get(2));
 System.out.println(arr.get(3));
 System.out.println(arr.get(4));
-System.out.println(arr.get(4));
 }  
   
 public boolean isPrime(double dNum)  
