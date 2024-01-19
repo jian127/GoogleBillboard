@@ -26,11 +26,11 @@ if(sum == 49) {
   }
   
   }
-System.out.println(arr.get(0));
-System.out.println(arr.get(1));
-System.out.println(arr.get(2));
-System.out.println(arr.get(3));
-System.out.println(arr.get(4));
+System.out.println(arr.get(0)); //f(1)
+System.out.println(arr.get(1)); //f(2)
+System.out.println(arr.get(2));   //f(3)
+System.out.println(arr.get(3));   //f(4)
+System.out.println(arr.get(4));   //f(5)
 }  
   
 public boolean isPrime(double dNum)  
